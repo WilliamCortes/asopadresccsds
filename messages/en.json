@@ -1,0 +1,348 @@
+{
+  "meta": {
+    "siteName": "ASOPADRES CCSDS",
+    "separator": " | ",
+    "pages": {
+      "home": {
+        "title": "ASOPADRES CCSDS — Parents Association",
+        "description": "Independent parents association of Colegio Campestre Santo Domingo Savio. Anolaima, Cundinamarca, Colombia. NIT 901.740.513-1. Support our covered court project."
+      },
+      "about": {
+        "title": "About Us | ASOPADRES CCSDS",
+        "description": "Learn about the history, mission, board of directors and legal framework of the Parents Association of Colegio Campestre Santo Domingo Savio."
+      },
+      "legal": {
+        "title": "Legal Framework | ASOPADRES CCSDS",
+        "description": "Colombian regulatory framework for ASOPADRES CCSDS. Institutional documents available for download."
+      },
+      "project": {
+        "title": "Covered Court Project | ASOPADRES CCSDS",
+        "description": "Support the construction of a covered sports court at Colegio Campestre Santo Domingo Savio. A dignified space for children to play and grow."
+      },
+      "join": {
+        "title": "Join Us | ASOPADRES CCSDS",
+        "description": "Join the Parents Association of Colegio Campestre Santo Domingo Savio. Membership registration form."
+      },
+      "news": {
+        "title": "News | ASOPADRES CCSDS",
+        "description": "News and announcements from ASOPADRES CCSDS."
+      },
+      "privacy": {
+        "title": "Data Protection | ASOPADRES CCSDS",
+        "description": "Personal data treatment policy of ASOPADRES CCSDS. Compliant with Colombian Law 1581/2012 and GDPR 2016/679."
+      },
+      "contact": {
+        "title": "Contact Us | ASOPADRES CCSDS",
+        "description": "Get in touch with the Parents Association of Colegio Campestre Santo Domingo Savio."
+      }
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "legal": "Legal Framework",
+    "project": "Court Project",
+    "join": "Join Us",
+    "news": "News",
+    "privacy": "Data Protection",
+    "contact": "Contact Us",
+    "cta": "Join Us",
+    "menu": "Menu",
+    "close": "Close"
+  },
+  "hero": {
+    "eyebrow": "Parents Association",
+    "title": "Together we build our children's future",
+    "subtitle": "We are the voice of the families of Colegio Campestre Santo Domingo Savio. Independent, committed and working for every student.",
+    "cta_primary": "See the Project",
+    "cta_secondary": "About Us"
+  },
+  "about_preview": {
+    "title": "Who are we?",
+    "point1_title": "Independent entity",
+    "point1_body": "We are a legally constituted non-profit, legally independent from the school, under the supervision of the Cundinamarca Government.",
+    "point2_title": "Founded by families",
+    "point2_body": "Founded on May 19, 2023, driven by 16 families who believed in an organized and committed community.",
+    "point3_title": "Allies, not dependents",
+    "point3_body": "We support school initiatives without being part of its structure. We are strategic allies for our children's education."
+  },
+  "project_teaser": {
+    "eyebrow": "Our main project",
+    "title": "The covered court: a shared dream",
+    "body": "Today our children play outdoors. Sun or rain, recess is the same roofless space. We want to give them a dignified place to run, laugh and grow. We are building a covered sports court at Colegio Campestre Santo Domingo Savio.",
+    "cta": "See the full project",
+    "image_alt": "Covered court project — Colegio Santo Domingo Savio"
+  },
+  "stats": {
+    "title": "Our impact in numbers",
+    "families_label": "Member families",
+    "projects_label": "Active projects",
+    "years_label": "Years of history",
+    "founded_label": "Founded",
+    "families_value": "50+",
+    "projects_value": "3",
+    "years_value": "2",
+    "founded_value": "2023"
+  },
+  "gallery": {
+    "title": "Life at the School",
+    "subtitle": "Moments that make our community great",
+    "alt_danzas": "Dance performance — CCSDS students",
+    "alt_teatro": "Theater event — Santo Domingo Savio School",
+    "alt_ninos": "Students on school bleachers",
+    "alt_padre_hijo": "Father and child at school activity",
+    "alt_pintura": "Painting workshop — arts program CCSDS",
+    "alt_bailando": "Students in artistic performance",
+    "alt_cometa": "Child flying a kite — recreational activities",
+    "alt_frente": "Front of Colegio Campestre Santo Domingo Savio"
+  },
+  "board": {
+    "title": "Board of Directors",
+    "subtitle": "Elected at Assembly, Minutes No. 11 — April 1, 2025",
+    "president": "President and Legal Representative",
+    "vicepresident": "Vice President and Alternate Legal Representative",
+    "member": "Board Member",
+    "members": [
+      { "name": "Carmen Rosa Izquierdo Vargas", "role": "President / Main Legal Rep." },
+      { "name": "Yenni Luz Mila Molina Sánchez", "role": "Vice President / Alt. Legal Rep." },
+      { "name": "Katherine Alejandra Reina Ardila", "role": "Board Member" },
+      { "name": "Jeny Lorena Hernández Zambrano", "role": "Board Member" },
+      { "name": "Claudia Patricia Silva Huertas", "role": "Board Member" },
+      { "name": "Paola Andrea Novoa Arias", "role": "Board Member" },
+      { "name": "Luis Fernando Tellez Guacaneme", "role": "Board Member" },
+      { "name": "Gloria Helena Gómez Rodríguez", "role": "Board Member" },
+      { "name": "Jhon Fredy Osorio Ramírez", "role": "Board Member" }
+    ]
+  },
+  "project_page": {
+    "eyebrow": "Covered Court — CCSDS",
+    "title": "When it rains, children cannot play",
+    "intro": "At Colegio Campestre Santo Domingo Savio, recess is one of the most anticipated moments of the day. But when it rains — and in Anolaima, Cundinamarca, it rains often — children must stay indoors, without space, without movement.",
+    "section1_title": "The problem we want to solve",
+    "section1_body": "The current courts are open-air. Without cover, rain cancels sports, play, and community time. Children need a dignified space to develop physically, socialize and grow. That space cannot depend on the weather.",
+    "section2_title": "Our proposal",
+    "section2_body": "Build a covered court that allows students to play in any weather condition. A space that also serves for presentations, community events and activities that currently have no venue.",
+    "section3_title": "How are we doing?",
+    "progress_label": "Goal reached",
+    "progress_raised": "Raised",
+    "progress_goal": "Goal",
+    "cta_title": "Would you like to be part of this?",
+    "cta_body": "We ask for nothing. We simply share that if you ever wish to add your name to this project, you can do so. Every contribution, large or small, brings us closer to the dream of a court where all our children can play.",
+    "cta_colombia": "Support from Colombia (COP)",
+    "cta_international": "Support internationally (EUR/USD)",
+    "wompi_title": "Contribution in Colombia",
+    "wompi_subtitle": "Secure payment via Wompi — Bancolombia",
+    "paypal_title": "International support",
+    "paypal_subtitle": "Secure payment via PayPal — EUR/USD",
+    "image_alt_1": "Current play area — no cover",
+    "image_alt_2": "Covered court proposal for CCSDS"
+  },
+  "affiliation": {
+    "title": "Join ASOPADRES CCSDS",
+    "subtitle": "Being part of the association means actively participating in your child's education.",
+    "benefits_title": "Why join?",
+    "benefits": [
+      "Voice and vote at General Assemblies",
+      "Participation in decisions affecting the school",
+      "Access to management and project information",
+      "Opportunity to run for the Board of Directors"
+    ],
+    "form_title": "Membership form",
+    "form": {
+      "full_name": "Full name",
+      "full_name_placeholder": "Your full name",
+      "email": "Email address",
+      "email_placeholder": "you@email.com",
+      "phone": "Phone / WhatsApp",
+      "phone_placeholder": "+57 300 0000000",
+      "id_number": "ID number",
+      "id_placeholder": "Identity document number",
+      "student_name": "Student's name",
+      "student_placeholder": "Child's name",
+      "student_grade": "Student's grade",
+      "grade_placeholder": "Select grade",
+      "grades": ["First", "Second", "Third", "Fourth", "Fifth", "Sixth", "Seventh", "Eighth", "Ninth", "Tenth", "Eleventh"],
+      "habeas_data_text": "I authorize the processing of my personal data in accordance with the ",
+      "habeas_data_link": "ASOPADRES CCSDS Data Protection Policy",
+      "habeas_data_suffix": " (Colombian Law 1581/2012 and Decree 1377/2013).",
+      "submit": "Continue to membership payment",
+      "submitting": "Processing..."
+    },
+    "validation": {
+      "required": "This field is required",
+      "email_invalid": "Invalid email address",
+      "phone_min": "Minimum 7 digits",
+      "habeas_data_required": "You must accept data processing to continue",
+      "name_min": "Minimum 2 characters"
+    },
+    "success_title": "Welcome to ASOPADRES CCSDS!",
+    "success_body": "Your membership has been registered. We have sent a confirmation to your email.",
+    "error_title": "Processing error",
+    "error_body": "An error occurred. Please try again or write to asociaciondepadresdefamilia@ccsds.edu.co"
+  },
+  "news": {
+    "title": "News",
+    "subtitle": "Updates and announcements from ASOPADRES CCSDS",
+    "categories": {
+      "all": "All",
+      "proyectos": "Projects",
+      "asambleas": "Assemblies",
+      "actividades": "Activities",
+      "logros": "Achievements"
+    },
+    "read_more": "Read more",
+    "published": "Published on",
+    "no_news": "No posts in this category yet.",
+    "back": "Back to news"
+  },
+  "legal": {
+    "title": "Legal Framework",
+    "subtitle": "ASOPADRES CCSDS operates under the Colombian regulatory framework applicable to parents associations",
+    "independence_title": "Legal independence",
+    "independence_body": "Under Article 9 of Decree 1286/2005, ASOPADRES is a legally and patrimonially independent entity from Colegio Campestre Santo Domingo Savio. We are not a school body; we are an autonomous entity working for the education of students.",
+    "norms_title": "Applicable regulations",
+    "norms": [
+      { "norm": "Art. 38 Colombian Constitution", "description": "Right of free association — constitutional foundation" },
+      { "norm": "Art. 67 Colombian Constitution", "description": "Right to education and family participation" },
+      { "norm": "Law 115/1994 Art. 7", "description": "Family as fundamental nucleus of the educational process" },
+      { "norm": "Decree 1286/2005", "description": "Parents participation. Art. 9: entity separate from school" },
+      { "norm": "Decree 1075/2015 Art. 2.3.4.9", "description": "Unified Regulatory Decree for the Education Sector" },
+      { "norm": "Law 1581/2012", "description": "Personal data protection — habeas data" },
+      { "norm": "Decree 1377/2013", "description": "Regulation of Law 1581 — treatment policy" },
+      { "norm": "Law 1098/2006 Art. 12", "description": "Children's Code — minor images require authorization" },
+      { "norm": "GDPR 2016/679", "description": "European data protection regulation — applies to EU donors" }
+    ],
+    "docs_title": "Institutional documents",
+    "docs_subtitle": "Mandatory documents per current Colombian regulations",
+    "docs": [
+      { "key": "estatutos", "label": "Current Bylaws 2024", "description": "Reform Minutes No. 7 of 03/08/2024, registered with CCF on 04/24/2025" },
+      { "key": "rut", "label": "Tax Registration (RUT)", "description": "DIAN — September 2025. NIT: 901.740.513-1" },
+      { "key": "ccf", "label": "Chamber of Commerce Certificate", "description": "Issued 03/30/2026 — Cámara de Comercio de Facatativá" },
+      { "key": "reglamento", "label": "Assembly Rules", "description": "Procedure for General Assembly sessions" },
+      { "key": "politica", "label": "Data Protection Policy", "description": "Under Decree 1377/2013 — 8 minimum elements" }
+    ],
+    "download": "Download PDF",
+    "verify_ccf": "Verify at Chamber of Commerce",
+    "prohibition_title": "Absolute prohibitions (Art. 8 Decree 1286/2005)",
+    "prohibitions": [
+      "Interfering in political-electoral activities",
+      "Charging fees for activities that belong to the school",
+      "Interfering in the administration and management of the school",
+      "Committing school resources"
+    ]
+  },
+  "privacy": {
+    "title": "Data Protection Policy",
+    "subtitle": "Under Colombian Law 1581/2012, Decree 1377/2013, and GDPR 2016/679",
+    "last_updated": "Effective from",
+    "version": "Version 1.0",
+    "sections": {
+      "responsible_title": "1. Data Controller",
+      "responsible_body": "ASOCIACION DE PADRES DE FAMILIA DEL COLEGIO CAMPESTRE SANTO DOMINGO SAVIO, NIT 901.740.513-1, located at Vereda La María, Sitio Los Veleños, Anolaima, Cundinamarca, Colombia.",
+      "contact_title": "2. Contact Information",
+      "contact_body": "Email: asociaciondepadresdefamilia@ccsds.edu.co — Phone: +57 315 2252936. To exercise your data rights, please contact us through these channels.",
+      "purposes_title": "3. Purposes of Processing",
+      "purposes": [
+        "Management of membership and affiliation process",
+        "Institutional communications and assembly notices",
+        "Financial management of fees and contributions",
+        "Development of Association activities and projects",
+        "Event photography (with prior written authorization)"
+      ],
+      "rights_title": "4. Rights of Data Subjects",
+      "rights": [
+        "Access, update, and correct your personal data",
+        "Request proof of authorization granted",
+        "Be informed about how your data is used",
+        "File complaints with the Colombian SIC or your local EU data authority",
+        "Withdraw authorization and/or request deletion of your data",
+        "Access your personal data free of charge"
+      ],
+      "area_title": "5. Responsible Area",
+      "area_body": "The Board of Directors of ASOPADRES CCSDS, through the official email asociaciondepadresdefamilia@ccsds.edu.co.",
+      "procedure_title": "6. Procedure to Exercise Rights",
+      "procedure_body": "Send a written request to asociaciondepadresdefamilia@ccsds.edu.co stating: full name, ID number, type of request (access, rectification, deletion or objection) and description. Response time: up to 10 business days for queries and 15 business days for claims.",
+      "validity_title": "7. Validity and Updates",
+      "validity_body": "This policy is effective from its publication date. Any changes will be communicated via official email and published on this site at least 10 business days in advance.",
+      "minors_title": "8. Data of Minors",
+      "minors_body": "Student data for minors is considered sensitive data under Art. 7 of Law 1581/2012. Processing requires explicit authorization from a parent or guardian. Images of minors will only be published with signed authorization from their legal representative, per Art. 12 of Law 1098/2006.",
+      "gdpr_title": "Notice for European Union Users (GDPR)",
+      "gdpr_body": "If you access this site from the European Union, your data is processed under the General Data Protection Regulation (GDPR 2016/679). As an EU data subject, you have the right to data portability, erasure ('right to be forgotten'), and objection to processing. To exercise these rights, contact us at asociaciondepadresdefamilia@ccsds.edu.co. Our data is stored on servers located in the European Union (Frankfurt region)."
+    },
+    "arco_title": "Data Rights Request Form",
+    "arco_subtitle": "Access, Rectification, Cancellation, or Objection",
+    "arco_form": {
+      "name": "Full name",
+      "id": "ID number",
+      "email": "Reply email",
+      "type": "Request type",
+      "type_options": ["Access to my data", "Data rectification", "Data deletion", "Objection to processing", "Withdrawal of authorization"],
+      "description": "Request description",
+      "submit": "Submit request",
+      "success": "Request sent. We will respond within 15 business days to the email provided.",
+      "error": "Error sending. Write to us directly at asociaciondepadresdefamilia@ccsds.edu.co"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We are here to assist you",
+    "info": {
+      "email_label": "Official email",
+      "email": "asociaciondepadresdefamilia@ccsds.edu.co",
+      "phone_label": "Main WhatsApp",
+      "phone": "+57 315 2252936",
+      "phone2_label": "Alternative WhatsApp",
+      "phone2": "+57 310 3712769",
+      "address_label": "Address",
+      "address": "Vereda La María, Sitio Los Veleños, Anolaima, Cundinamarca, Colombia",
+      "watchdog_label": "Supervisory entity",
+      "watchdog": "Gobernación de Cundinamarca — Secretaría Jurídica, Dir. Personas Jurídicas",
+      "response_time": "We respond within 5 business days"
+    },
+    "form": {
+      "name": "Your full name",
+      "email": "Your email address",
+      "subject": "Subject",
+      "message": "Your message",
+      "message_placeholder": "How can we help you?",
+      "habeas_data_text": "I accept the processing of my data in accordance with the ",
+      "habeas_data_link": "Data Protection Policy",
+      "submit": "Send message",
+      "submitting": "Sending...",
+      "success": "Message sent successfully. We will reply soon.",
+      "error": "An error occurred. Please write to us directly at our official email."
+    }
+  },
+  "footer": {
+    "legal_name": "ASOCIACION DE PADRES DE FAMILIA DEL COLEGIO CAMPESTRE SANTO DOMINGO SAVIO",
+    "nit": "NIT: 901.740.513-1",
+    "ccf": "CCF Registration: S0504820",
+    "address": "Vereda La María, Sitio Los Veleños, Anolaima, Cundinamarca",
+    "watchdog": "Under supervision of the Gobernación de Cundinamarca",
+    "independence": "Legally independent entity from Colegio Campestre Santo Domingo Savio",
+    "privacy": "Data Protection",
+    "legal": "Legal Framework",
+    "rights": "All rights reserved",
+    "school_link": "School Website",
+    "description": "Non-profit organization (NGO) founded on May 19, 2023 to promote family participation in the education of CCSDS students."
+  },
+  "cookie_banner": {
+    "text": "We use essential cookies for the operation of this website.",
+    "learn_more": "Learn more",
+    "accept": "Accept",
+    "decline": "Essential only",
+    "gdpr_notice": "You are accessing from the EU: GDPR 2016/679 applies."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "back": "Back",
+    "download": "Download",
+    "read_more": "Read more",
+    "see_all": "See all",
+    "required_fields": "Fields marked with * are required",
+    "independent_entity": "Entity independent from the School",
+    "esal_badge": "NGO — Non-profit",
+    "registered": "Registered with CCF"
+  }
+}
